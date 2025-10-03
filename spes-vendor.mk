@@ -1133,6 +1133,7 @@ PRODUCT_PACKAGES += \
     libmmcamera_mfnr \
     libxml \
     libcdsprpc \
+    libcamxncs \
     CneApp \
     IWlanService \
     TimeService \
