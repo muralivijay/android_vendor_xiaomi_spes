@@ -139,7 +139,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/spes/proprietary/vendor/etc/flp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/flp.conf \
     vendor/xiaomi/spes/proprietary/vendor/etc/gps.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gps.conf \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
-    vendor/xiaomi/spes/proprietary/vendor/etc/init/android.hardware.camera.provider@2.4-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.camera.provider@2.4-service_64.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/android.hardware.drm@1.1-service.wfdhdcp.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.1-service.wfdhdcp.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.3-service.widevine.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc \
@@ -577,16 +576,6 @@ PRODUCT_PACKAGES += \
     libshoebox \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
-    android.hardware.camera.provider@2.4-external \
-    android.hardware.camera.provider@2.4-legacy \
-    camera.device@1.0-impl \
-    camera.device@3.2-impl \
-    camera.device@3.3-impl \
-    camera.device@3.4-external-impl \
-    camera.device@3.4-impl \
-    camera.device@3.5-external-impl \
-    camera.device@3.5-impl \
-    camera.device@3.6-external-impl \
     com.qti.eeprom.irs2381c_polar \
     com.qti.eeprom.truly_cmb433 \
     com.qti.flash.lm3644 \
@@ -1158,7 +1147,6 @@ PRODUCT_PACKAGES += \
     f2player \
     hvdcp_opti \
     android.hardware.bluetooth@1.0-service-qti \
-    android.hardware.camera.provider@2.4-service_64 \
     android.hardware.drm@1.3-service.widevine \
     android.hardware.gatekeeper@1.0-service-qti \
     android.hardware.gnss@2.1-service-qti \
