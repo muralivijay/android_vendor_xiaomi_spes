@@ -337,17 +337,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.sensormodule.k7t_sunny_ov02b1b_depth_i.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.k7t_sunny_ov02b1b_depth_i.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.sensormodule.k7t_sunny_ov02b1b_depth_iii.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.k7t_sunny_ov02b1b_depth_iii.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.sensormodule.k7t_truly_ov02b1b_depth_ii.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.k7t_truly_ov02b1b_depth_ii.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.agatti_lce_s5k3p9.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.agatti_lce_s5k3p9.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.agatti_lce_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.agatti_lce_s5k4h7.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.agatti_lce_s5k5e9yx04.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.agatti_lce_s5k5e9yx04.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.agatti_no_mfnr_lce_s5k3p9.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.agatti_no_mfnr_lce_s5k3p9.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.agatti_truly_imx476.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.agatti_truly_imx476.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.c3q_hi556.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.c3q_hi556.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.divar_lce_s5k3p9.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.divar_lce_s5k3p9.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.divar_lce_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.divar_lce_s5k4h7.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.divar_lce_s5k5e9yx04.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.divar_lce_s5k5e9yx04.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.divar_truly_imx476.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.divar_truly_imx476.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii_factory.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii_factory.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii_global.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_aac_gc02m1_macro_ii_global.bin \
@@ -392,10 +381,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_factory.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_factory.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_global.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_global.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_india.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.k7t_truly_ov02b1b_depth_ii_india.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.lce_s5k3p9.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.lce_s5k3p9.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.lce_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.lce_s5k4h7.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.lce_s5k5e9yx04.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.lce_s5k5e9yx04.bin \
-    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/com.qti.tuned.truly_imx476.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.truly_imx476.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreview.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigpreviewlite.bin \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/fdconfigvideo.bin \
@@ -576,49 +561,11 @@ PRODUCT_PACKAGES += \
     libshoebox \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
-    com.qti.eeprom.irs2381c_polar \
-    com.qti.eeprom.truly_cmb433 \
-    com.qti.flash.lm3644 \
-    com.qti.sensor.hi556 \
-    com.qti.sensor.imx318 \
-    com.qti.sensor.imx334 \
-    com.qti.sensor.imx362 \
-    com.qti.sensor.imx376 \
-    com.qti.sensor.imx386 \
-    com.qti.sensor.imx476 \
-    com.qti.sensor.imx481 \
-    com.qti.sensor.imx519 \
-    com.qti.sensor.imx576 \
-    com.qti.sensor.imx577 \
-    com.qti.sensor.imx586 \
     com.qti.sensor.k7t_gc02m1_macro \
     com.qti.sensor.k7t_gc08a3_ultra \
     com.qti.sensor.k7t_ov02b1b_depth \
     com.qti.sensor.k7t_s5k3l6_front \
     com.qti.sensor.k7t_s5kjn1_wide \
-    com.qti.sensor.max7366_6dof \
-    com.qti.sensor.max7366_eyetrack \
-    com.qti.sensor.max7366_ov6211 \
-    com.qti.sensor.max7366_ov9282 \
-    com.qti.sensor.ov12a10 \
-    com.qti.sensor.ov12a10_front \
-    com.qti.sensor.ov13855 \
-    com.qti.sensor.ov13880 \
-    com.qti.sensor.ov6211_master \
-    com.qti.sensor.ov6211_slave \
-    com.qti.sensor.ov7251 \
-    com.qti.sensor.ov8856 \
-    com.qti.sensor.ov8856_master \
-    com.qti.sensor.ov8856_slave \
-    com.qti.sensor.ov9282_master \
-    com.qti.sensor.ov9282_slave \
-    com.qti.sensor.s5k2l7 \
-    com.qti.sensor.s5k2x5sp \
-    com.qti.sensor.s5k3m5 \
-    com.qti.sensor.s5k3p9 \
-    com.qti.sensor.s5k4h7 \
-    com.qti.sensor.s5k5e9yu05 \
-    com.qti.sensor.s5k5e9yx04 \
     com.mi.node.realtimebokeh \
     com.qti.camx.chiiqutils \
     com.qti.eisv2 \
@@ -1144,7 +1091,6 @@ PRODUCT_PACKAGES += \
     displayfeature \
     dpmQmiMgr \
     dspservice \
-    f2player \
     hvdcp_opti \
     android.hardware.bluetooth@1.0-service-qti \
     android.hardware.drm@1.3-service.widevine \
